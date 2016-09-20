@@ -1,2 +1,2 @@
 # hello-world
-codecamp hello-world start
+codecamp hello-world start exercise
