@@ -1,2 +1,3 @@
 # hello-world
-codecamp hello-world start exercise
+I erase this second line.
+and write the second conflicting line;)
