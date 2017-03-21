@@ -1,3 +1,3 @@
 # hello-world
-codecamp hello-world start
-this is the addition to branch two
+I erase this second line.
+and write the second conflicting line;)
